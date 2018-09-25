@@ -16,7 +16,7 @@
 		location="classpath:application.properties" />
 	
 	<import resource="database_config.xml"/>
-	<import resource="servlet_config.xml"/>
+
 
 	<aop:aspectj-autoproxy />
 
